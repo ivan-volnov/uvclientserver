@@ -10,6 +10,8 @@ An client/server example using libuv
 ## Compilation
 
 ```bash
+git clone https://github.com/ivan-volnov/uvclientserver.git
+cd uvclientserver
 mkdir build
 cd build/
 cmake ..
