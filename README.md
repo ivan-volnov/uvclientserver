@@ -6,6 +6,7 @@ An client/server example using libuv
 
 - C++17 compiller. It was tested on Apple clang version 12.0.0
 - Any OS. It was tested on macOS
+- CMake
 
 ## Compilation
 
